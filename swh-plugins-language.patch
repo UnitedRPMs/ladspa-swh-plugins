@@ -1,0 +1,20 @@
+--- po/de.po.orig	2016-10-17 03:05:54.000000000 -0600
++++ po/de.po	2018-05-05 17:12:30.233400280 -0600
+@@ -10,6 +10,7 @@ msgstr ""
+ "PO-Revision-Date: 2009-04-01 12:02+0100\n"
+ "Last-Translator: Chris Leick <c.leick@vollbio.de>\n"
+ "Language-Team: German <debian-l10n-german@lists.debian.org>\n"
++"Language: de\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+--- po/en_GB.po.orig	2016-10-17 03:05:54.000000000 -0600
++++ po/en_GB.po	2018-05-05 17:12:46.321359315 -0600
+@@ -10,6 +10,7 @@ msgstr ""
+ "PO-Revision-Date: 2003-03-09 14:09+0000\n"
+ "Last-Translator: Stephen Harris <swh@ecs.soton.ac.uk>\n"
+ "Language-Team: English <en@translate.freefriends.org>\n"
++"Language: en_GB\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=ISO-8859-1\n"
+ "Content-Transfer-Encoding: 8bit\n"
